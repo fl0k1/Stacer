@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="it_IT">
 <context>
     <name>App</name>
     <message>
         <location filename="../stacer/app.cpp" line="80"/>
-        <source>Dashboard</source>
+        <source>Pannello Principale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -15,32 +15,32 @@
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="90"/>
-        <source>System Startup Apps</source>
+        <source>App all'Avvio del Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="95"/>
-        <source>System Services</source>
+        <source>Servizi di Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="100"/>
-        <source>Uninstaller</source>
+        <source>Disinstalla</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="105"/>
-        <source>Resources</source>
+        <source>Risorse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="110"/>
-        <source>Processes</source>
+        <source>Processi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/app.cpp" line="115"/>
-        <source>Settings</source>
+        <source>Impostazioni</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -48,12 +48,12 @@
     <name>DashboardPage</name>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="153"/>
-        <source>SYSTEM INFO</source>
+        <source>INFO DI SISTEMA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.ui" line="240"/>
-        <source>There are update currently available.</source>
+        <source>Ci sono aggiornamenti disponibili.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -68,12 +68,12 @@
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="19"/>
-        <source>MEMORY</source>
+        <source>MEMORIA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="20"/>
-        <source>DISK</source>
+        <source>DISCO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -93,38 +93,38 @@
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="108"/>
-        <source>Platform: %1</source>
+        <source>Piattaforma: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="109"/>
-        <source>Distribution: %1</source>
+        <source>Distribuzione: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="110"/>
-        <source>Kernel Release: %1</source>
+        <source>Versione Kernel: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="111"/>
-        <source>CPU Model: %1</source>
+        <source>Modello CPU: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="112"/>
-        <source>CPU Speed: %1</source>
+        <source>Velocità CPU: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="113"/>
-        <source>CPU Core: %1</source>
+        <source>Core CPU: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="182"/>
         <location filename="../stacer/Pages/Dashboard/dashboard_page.cpp" line="186"/>
-        <source>Total: %1</source>
+        <source>Totale: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -132,57 +132,57 @@
     <name>ProcessesPage</name>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.ui" line="55"/>
-        <source>Processes</source>
+        <source>Processi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.ui" line="68"/>
-        <source>All Processes</source>
+        <source>Tutti i Processi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.ui" line="88"/>
-        <source>Search...</source>
+        <source>Cerca...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.ui" line="206"/>
-        <source>End Process</source>
+        <source>Termina Processo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="35"/>
-        <source>User</source>
+        <source>Utente</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="35"/>
-        <source>Resident Memory</source>
+        <source>Memoria Fisica</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="35"/>
-        <source>%Memory</source>
+        <source>%Memoria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="35"/>
-        <source>Virtual Memory</source>
+        <source>Memoria Virtuale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="36"/>
-        <source>Start Time</source>
+        <source>Orario Avvio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="36"/>
-        <source>State</source>
+        <source>Stato</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="36"/>
-        <source>Group</source>
+        <source>Gruppo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -197,7 +197,7 @@
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="37"/>
-        <source>Session</source>
+        <source>Sessione</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -207,17 +207,17 @@
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="37"/>
-        <source>Process</source>
+        <source>Processo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="104"/>
-        <source>Processes (%1)</source>
+        <source>Processi (%1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Processes/processes_page.cpp" line="198"/>
-        <source>Refresh (%1)</source>
+        <source>Aggiorna (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -225,27 +225,27 @@
     <name>ResourcesPage</name>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="26"/>
-        <source>CPU History</source>
+        <source>Cronologia CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="29"/>
-        <source>Memory History</source>
+        <source>Cronologia Memoria</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="32"/>
-        <source>Network History</source>
+        <source>Cronologia Network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="76"/>
-        <source>Download %1/s Total: %2</source>
+        <source>Download %1/s Totale: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="81"/>
-        <source>Upload %1/s  Total: %2</source>
+        <source>Upload %1/s  Totale: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -255,7 +255,7 @@
     </message>
     <message>
         <location filename="../stacer/Pages/Resources/resources_page.cpp" line="131"/>
-        <source>Memory %1 (%2%) %3</source>
+        <source>Memoria %1 (%2%) %3</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -263,27 +263,27 @@
     <name>ServicesPage</name>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="79"/>
-        <source>System Services</source>
+        <source>Servizi di Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="123"/>
-        <source>Startup at boot ?</source>
+        <source>Apertura all'Avvio ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="176"/>
-        <source>Running Now ?</source>
+        <source>In Esecuzione ?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.ui" line="246"/>
-        <source>Not Found System Service</source>
+        <source>Servizio Sistema Non Trovato</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Services/services_page.cpp" line="50"/>
-        <source>System Services (%1)</source>
+        <source>Servizi di Sistema (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -291,12 +291,12 @@
     <name>SettingsPage</name>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="54"/>
-        <source>Language</source>
+        <source>Lingua</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Settings/settings_page.ui" line="71"/>
-        <source>Theme</source>
+        <source>Tema</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -304,12 +304,12 @@
     <name>StartupApp</name>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app.cpp" line="23"/>
-        <source>Delete</source>
+        <source>Elimina</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app.cpp" line="24"/>
-        <source>Edit</source>
+        <source>Modifica</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -317,37 +317,37 @@
     <name>StartupAppEdit</name>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="20"/>
-        <source>Startup App</source>
+        <source>App Avvio Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="50"/>
-        <source>Save</source>
+        <source>Salva</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="60"/>
-        <source>Fields cannot be left blank. </source>
+        <source>Il campo non può essere vuoto. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="67"/>
-        <source>App Comment</source>
+        <source>Commento App</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="74"/>
-        <source>App Name</source>
+        <source>Nome App</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="81"/>
-        <source>Command</source>
+        <source>Comando</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_app_edit.ui" line="88"/>
-        <source>Application</source>
+        <source>Applicazione</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -355,22 +355,22 @@
     <name>StartupAppsPage</name>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="192"/>
-        <source>Not Found Startup Apps</source>
+        <source>Nessun app all'avvio del sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="112"/>
-        <source>System Startup Applications</source>
+        <source>Applicazione all'Avvio del Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.ui" line="95"/>
-        <source>Add Startup App</source>
+        <source>Aggiungi App all'Avvio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/StartupApps/startup_apps_page.cpp" line="79"/>
-        <source>System Startup Applications (%1)</source>
+        <source>Applicazione all'Avvio del Sistema (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -383,42 +383,42 @@
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="168"/>
-        <source>Application Logs</source>
+        <source>Log delle Applicazioni</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="206"/>
-        <source>Application Caches</source>
+        <source>Caches delle Applicazioni</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="327"/>
-        <source>Trash</source>
+        <source>Cestino</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="365"/>
-        <source>Package Caches</source>
+        <source>Cache dei Pacchetti</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.ui" line="473"/>
-        <source> Back</source>
+        <source> Indietro</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="32"/>
-        <source>File Name</source>
+        <source>Nome File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="32"/>
-        <source>Size</source>
+        <source>Dimensioni</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/SystemCleaner/system_cleaner_page.cpp" line="285"/>
-        <source>%1 size files cleaned.</source>
+        <source>%1 eliminati.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -426,27 +426,27 @@
     <name>UninstallerPage</name>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="228"/>
-        <source>System Installed Packages</source>
+        <source>Pacchetti di Sistema Installati</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="271"/>
-        <source>Search...</source>
+        <source>Cerca...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="178"/>
-        <source>Not Found Installed Packages</source>
+        <source>Pacchetto installato non trovato</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstallerpage.ui" line="132"/>
-        <source>Uninstall Selected</source>
+        <source>Disinstalla Selezionati</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../stacer/Pages/Uninstaller/uninstaller_page.cpp" line="65"/>
-        <source>System Installed Packages (%1)</source>
+        <source>Pacchetti di Sistema Installati (%1)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
